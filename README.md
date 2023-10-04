@@ -11,4 +11,4 @@
 ### My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SentientWaste&repo=SetCloud)](https://github.com/SentientWaste/SetCloud_MinecraftServer)
 ### Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SentientWaste&Pie_Chart=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SentientWaste&Pie_Chart_layout=true)
