@@ -1,8 +1,3 @@
-<div align="Center">
-<img height=250 weight=250 src="LOGO.png">
-
-# Sentient 泽托维尔克
-</div>
 # 👋 Hello 👋
 ### About me
 I am a junior high school student . My hobbies are programming and playing games . I often write weird programs , Because it's funny and makes me happy . Currently I am learning : python
