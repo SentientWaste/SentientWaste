@@ -9,4 +9,4 @@
 - 👯 I would like someone to assist me with the project `SetCloud` 我希望有人一起协助我完成项目 `SetCloud`
 - 💬 You can contact me via email '2434740546@qq.com' 你可以通过邮箱 '2434740546@qq.com' 来联系我
 ### My projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SetCloud&repo=SetCloud)](https://github.com/SentientWaste/SetCloud_MinecraftServer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SentientWaste&repo=SetCloud)](https://github.com/SentientWaste/SetCloud_MinecraftServer)
