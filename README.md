@@ -1,8 +1,11 @@
-### 👋 Hello 👋
+<div align="Center">
+<img height=250 weight=250 src="LOGO.png">
 
-**SentientWaste/SentientWaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Sentient 泽托维尔克
+</div>
+# 👋 Hello 👋
+### About me
+I am a junior high school student . My hobbies are programming and playing games . I often write weird programs , Because it's funny and makes me happy . Currently I am learning : python
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
