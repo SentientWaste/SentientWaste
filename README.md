@@ -1,6 +1,6 @@
 # 👋 Hello 👋
 ### About me
-##### I am a junior high school student . My hobbies are programming and playing games . I often write weird programs , Because it's funny and makes me happy . Currently I am learning : Python , C# and C++ .
+#### I am a junior high school student . My hobbies are programming and playing games . I often write weird programs , Because it's funny and makes me happy . Currently I am learning : Python , C# and C++ .
 ### My skills
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,pr,visualstudio,vscode,)](https://skillicons.dev)
 
