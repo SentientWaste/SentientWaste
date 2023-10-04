@@ -10,3 +10,5 @@
 - 💬 You can contact me via email '2434740546@qq.com' 你可以通过邮箱 '2434740546@qq.com' 来联系我
 ### My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SentientWaste&repo=SetCloud)](https://github.com/SentientWaste/SetCloud_MinecraftServer)
+### Most used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SentientWaste&theme=PieChartlayout&hide_progress=true)
